@@ -1,0 +1,7 @@
+{
+    "host":"localhost",
+    "database":"classwork",
+    "user":"dac",
+    "password":"dac",
+    "port":"9999"
+}
